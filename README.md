@@ -16,7 +16,7 @@
 <div class="der">
     <p>Создайте любой текствой документ например index.txt и попробуйте переименовать документ на <b>index.html</b></p>
 
-    `<!DOCTYPE html>
+    ```<!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -26,7 +26,7 @@
     <body>
         <b>Внутри тега body пишеться тело сайта которая видна на вашем первом сайте</b>
     </body>
-    </html>`
+    </html>```
 
     
 </div>
