@@ -14,7 +14,7 @@
 
 <h2 align='center'>Создаем первый сайт</h2>
 <div class="der">
-
+    <p>Создайте любой текствой документ например index.txt и попробуйте переименовать документ на <u>index.html</u></p>
     `<!DOCTYPE html>
     <html lang="en">
     <head>
