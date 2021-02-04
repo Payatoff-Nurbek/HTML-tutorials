@@ -21,14 +21,15 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Название сайта</title>  <b>Тег title указывает заголовок документа(вашего сайта)</b> 
+        <title>Название сайта</title>   
     </head>
     <body>
-        <b>Внутри тега body пишеться тело сайта которая видна на вашем первом сайте</b>
+        
     </body>
     </html>
 
-    
+    <b>Тег title указывает заголовок документа(вашего сайта)</b>
+    <b>Внутри тега body пишеться тело сайта которая видна на вашем первом сайте</b>
 </div>
 <h2 align='center'>Теги</h2>
 <h2 align='center'>Атрибуты</h2>
