@@ -1,5 +1,4 @@
-# 
-<img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt=""> УРОКИ
+# HTML УРОКИ ДЛЯ НАЧИНАЮЩИХ
 
 <h2 align='center'>Описание</h2>
 <ul> 
@@ -45,4 +44,4 @@
 </div>
 <h2 align='center'>Теги</h2>
 <h2 align='center'>Атрибуты</h2>
-<h2 align='center'>HTML5</h2>
+<h2 align='center'><img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt=""></h2>
