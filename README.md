@@ -39,10 +39,9 @@
     </body>
     </html>
 
-    <p>И увидем это в браузере</p>
-    <img src="https://cdn.dzone.com/static/images/vaannila/struts1/HelloWorldpic2.gif" alt="">
-    
 </div>
+<p>И увидем это в браузере</p>
+    <img src="https://cdn.dzone.com/static/images/vaannila/struts1/HelloWorldpic2.gif" alt="">
 <h2 align='center'>Теги</h2>
 <h2 align='center'>Атрибуты</h2>
 <h2 align='center'><img width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt=""></h2>
